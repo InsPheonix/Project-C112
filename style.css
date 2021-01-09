@@ -1,0 +1,28 @@
+#gif_img {
+    height: 100px;
+}
+
+#test_img {
+    height: 250px;
+    border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.text_images_result {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 5px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: rgb(105, 186, 251);
+}
+
+.mini_result {
+    position: center;
+    margin: 20px;
+    background-color: grey;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
